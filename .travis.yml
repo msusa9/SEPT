@@ -1,0 +1,9 @@
+language: java
+jdk:
+  - oraclejdk12
+script:
+- cd restful-web-services
+- mvn clean install
+- cd ..
+- cd frontend/todo-app
+- npm install

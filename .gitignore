@@ -1,0 +1,12 @@
+/bin/
+*.class
+restful-web-services/target/test-classes/com/sept/rest/webservices/restfulwebservices/classes/addClassTest.class
+restful-web-services/target/classes/com/sept/rest/webservices/restfulwebservices/classes/Classes.class
+restful-web-services/target/classes/com/sept/rest/webservices/restfulwebservices/classes/classHardCode.class
+restful-web-services/target/classes/com/sept/rest/webservices/restfulwebservices/classes/classJpaResource.class
+restful-web-services/target/classes/com/sept/rest/webservices/restfulwebservices/course/course.class
+restful-web-services/target/classes/com/sept/rest/webservices/restfulwebservices/course/courseHardCode.class
+restful-web-services/target/classes/com/sept/rest/webservices/restfulwebservices/course/courseJpaResource.class
+restful-web-services/target/test-classes/com/sept/rest/webservices/restfulwebservices/classes/findByUsernameTestClass.class
+restful-web-services/target/test-classes/com/sept/rest/webservices/restfulwebservices/course/findByUsernameTestCourse.class
+*.class

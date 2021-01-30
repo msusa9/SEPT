@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+/*
+css for the login page fornow
+*/
+* {
+  box-sizing: border-box;
+ }
+
+input.log {
+  border: none;
+  border-bottom: 2px solid grey;
+  width: 30%;
+  height: 50px
+}
+
+
+input.log1 {
+  border: none;
+  border-bottom: 2px solid grey;
+  width: 30%;
+  align-self: center;
+  margin:0px auto;
+}
+
+input:focus {
+  outline: none;
+  border-bottom: 2px solid rgb(8, 8, 6);
+}
+
+h1.title {
+ padding-bottom: 20px;
+}
+
+button.btn-register {
+  position: relative;
+  left: 20px;
+  background: gray;
+}
+
+div.asd {
+  position: auto;
+  top: 50%;
+  transform: translateY(60%);
+
+}
+
+/*
+test
+*/
